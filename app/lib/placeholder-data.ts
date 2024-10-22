@@ -127,6 +127,84 @@ const invoices = [
     status: 'paid',
     date: '2022-06-05',
   },
+  {
+    customer_id: customers[0].id,
+    amount: 1579589,
+    status: 'pending',
+    date: '2022-12-06',
+  },
+  {
+    customer_id: customers[1].id,
+    amount: 48,
+    status: 'pending',
+    date: '2022-11-14',
+  },
+  {
+    customer_id: customers[4].id,
+    amount: 304900,
+    status: 'paid',
+    date: '2022-10-29',
+  },
+  {
+    customer_id: customers[3].id,
+    amount: 7800,
+    status: 'paid',
+    date: '2023-09-10',
+  },
+  {
+    customer_id: customers[5].id,
+    amount: 904577,
+    status: 'pending',
+    date: '2023-08-05',
+  },
+  {
+    customer_id: customers[2].id,
+    amount: 6,
+    status: 'pending',
+    date: '2023-07-16',
+  },
+  {
+    customer_id: customers[0].id,
+    amount: 8976,
+    status: 'pending',
+    date: '2023-06-27',
+  },
+  {
+    customer_id: customers[3].id,
+    amount: 685,
+    status: 'paid',
+    date: '2023-06-09',
+  },
+  {
+    customer_id: customers[4].id,
+    amount: 908,
+    status: 'paid',
+    date: '2023-06-17',
+  },
+  {
+    customer_id: customers[5].id,
+    amount: 7899,
+    status: 'paid',
+    date: '2023-06-07',
+  },
+  {
+    customer_id: customers[1].id,
+    amount: 78966,
+    status: 'paid',
+    date: '2023-08-19',
+  },
+  {
+    customer_id: customers[5].id,
+    amount: 56,
+    status: 'paid',
+    date: '2023-06-03',
+  },
+  {
+    customer_id: customers[2].id,
+    amount: 123539,
+    status: 'paid',
+    date: '2022-06-05',
+  },
 ];
 
 const revenue = [
